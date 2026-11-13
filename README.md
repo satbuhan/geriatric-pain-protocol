@@ -39,6 +39,7 @@ This tool is part of a growing atlas of tools built the same way:
 - [Selection of a neuromuscular blocking agent for rapid sequence induction and intubation](https://github.com/satbuhan/succinylcholine-rocuronium-protocol) ([live site](https://satbuhan.github.io/succinylcholine-rocuronium-protocol/))
 - [Metoclopramide versus Ondansetron — Antiemetic Selection by Clinical Setting](https://github.com/satbuhan/metoclopramide-ondansetron-protocol) ([live site](https://satbuhan.github.io/metoclopramide-ondansetron-protocol/))
 - [Needle Aspiration versus Tube Thoracostomy — Symptom-Led Management of Spontaneous Pneumothorax](https://github.com/satbuhan/spontaneous-pneumothorax-protocol) ([live site](https://satbuhan.github.io/spontaneous-pneumothorax-protocol/))
+- [Suspected or Witnessed Button Battery Exposure in a Child](https://github.com/satbuhan/button-battery-protocol) ([live site](https://satbuhan.github.io/button-battery-protocol/))
 
 ## Why this exists
 
